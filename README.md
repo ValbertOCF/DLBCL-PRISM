@@ -49,10 +49,3 @@ Push to GitHub, then **Settings → Pages → Deploy from a branch → `main` / 
 The app will be at `https://<user>.github.io/<repo>/`.
 
 Run in desktop R (no export needed): `shiny::runApp("app")`; data are read from `docs/data/`.
-
-## Data notes (important for the manuscript)
-
-* Expression is z-scored **within each cohort**; HRs are per 1 SD. Values are stored at 0.1-SD resolution.
-* Survival times were harmonized to months (12 cohorts were reported in days).
-* Treatment response categories were not available; early failure (< 24 months) is used as a proxy.
-* LDH reported in U/L without ULN (GSE117556) is set to missing.
