@@ -1,0 +1,32 @@
+Mensagens de aviso:
+1: pacote 'fgsea' foi compilado no R versão 4.4.3 
+2: pacote 'msigdbr' foi compilado no R versão 4.4.3 
+3: pacote 'survival' foi compilado no R versão 4.4.3 
+pooled_OS_uni_curated genes=20804  Hallmark FDR<0.05: 30  Reactome FDR<0.05: 170
+pooled_OS_uni_all  genes=21494  Hallmark FDR<0.05: 30  Reactome FDR<0.05: 178
+pooled_OS_multi_curated genes=17896  Hallmark FDR<0.05: 28  Reactome FDR<0.05: 230
+pooled_OS_multi_all genes=18601  Hallmark FDR<0.05: 30  Reactome FDR<0.05: 231
+pooled_PFS_uni_curated genes=13054  Hallmark FDR<0.05: 17  Reactome FDR<0.05:  70
+pooled_PFS_uni_all genes=15642  Hallmark FDR<0.05: 11  Reactome FDR<0.05:  72
+pooled_PFS_multi_curated genes= 4388  Hallmark FDR<0.05:  8  Reactome FDR<0.05:  37
+pooled_PFS_multi_all genes= 7997  Hallmark FDR<0.05:  9  Reactome FDR<0.05:  NA
+pooled_EF_curated  genes=12787  Hallmark FDR<0.05: 27  Reactome FDR<0.05: 113
+pooled_EF_all      genes=13305  Hallmark FDR<0.05: 29  Reactome FDR<0.05: 144
+Marker genes found: 114 / 114 
+                       cell cohort
+1   B-cell program (tumour)     20
+2         CD8 T / cytotoxic     20
+3           Dendritic cells      9
+4   Endothelium (stromal-2)     18
+5  IFN-gamma / inflammation     20
+6        Immune checkpoints     17
+7       M2-like macrophages     19
+8               Macrophages     19
+9  Matrix / CAF (stromal-1)     20
+10             MHC class II     21
+11              Neutrophils     10
+12                 NK cells      9
+13            Proliferation     20
+14       Regulatory T cells     13
+15                  T cells     20
+Done
